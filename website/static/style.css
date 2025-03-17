@@ -1,0 +1,35 @@
+
+.note-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.note-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.btn-primary {
+    padding: 0.5rem 1.5rem;
+    border-radius: 25px;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+textarea.form-control {
+    border-radius: 8px;
+    resize: vertical;
+}
+
+.alert {
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
+
+.card {
+    border-radius: 12px;
+}
