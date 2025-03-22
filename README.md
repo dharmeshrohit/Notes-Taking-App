@@ -23,5 +23,6 @@ Notes is a lightweight and intuitive note-taking web application built using Fla
 
 1. Clone the repository:
 
-```git clone <repo-url>
+```
+git clone <repo-url>
 ```
