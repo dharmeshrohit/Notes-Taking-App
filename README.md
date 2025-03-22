@@ -23,5 +23,4 @@ Notes is a lightweight and intuitive note-taking web application built using Fla
 
 1. Clone the repository:
 
-```git clone https://github.com/your-username/NotesHub.git
-cd NotesHub```
+```git clone <repo-url>```
