@@ -7,7 +7,7 @@ Notes is a lightweight and intuitive note-taking web application built using Fla
 - ✅ Create, and delete notes
 - ✅ Simple and responsive UI
 - ✅ User authentication for secure access
-- ✅ SQLite/PostgreSQL database support
+- ✅ SQLite database support
 
 ## 🛠️ Tech Stack
 
@@ -15,7 +15,7 @@ Notes is a lightweight and intuitive note-taking web application built using Fla
 
 - Frontend: HTML, CSS, JavaScript
 
-- Database: SQLite/PostgreSQL
+- Database: SQLite
 
 - Authentication: Flask-Login
 
