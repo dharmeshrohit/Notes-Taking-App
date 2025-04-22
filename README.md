@@ -4,10 +4,10 @@ Notes is a lightweight and intuitive note-taking web application built using Fla
 
 ## Features
 
-- ✅ Create, and delete notes
-- ✅ Simple and responsive UI
-- ✅ User authentication for secure access
-- ✅ SQLite database support
+- Create, and delete notes
+- Simple and responsive UI
+- User authentication for secure access
+- SQLite database support
 
 ## Tech Stack
 
