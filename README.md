@@ -1,15 +1,15 @@
-# 📝 Notes - A Simple Note-Taking Web App
+# Notes - A Simple Note-Taking Web App
 
 Notes is a lightweight and intuitive note-taking web application built using Flask. It allows users to create, delete, and organize their notes effortlessly. With a clean and minimal interface, NotesHub helps you focus on capturing your thoughts without distractions.
 
-## 🚀 Features
+## Features
 
 - ✅ Create, and delete notes
 - ✅ Simple and responsive UI
 - ✅ User authentication for secure access
 - ✅ SQLite database support
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Backend: Flask, SQLAlchemy
 
@@ -19,7 +19,7 @@ Notes is a lightweight and intuitive note-taking web application built using Fla
 
 - Authentication: Flask-Login
 
-## 📌 Installation
+## Installation
 
 1. Clone the repository:
 
